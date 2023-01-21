@@ -1,5 +1,5 @@
 # Tic-Tac-Toe-using-Chatgpt.github.io
-<b>Github Page Link :- </b>https://patelkurvesh.github.io/Tic-Tac-Toe-using-Chatgpt.github.io/   <br>
+<b>Github Page Link :- </b>https://patelkurvesh.github.io/Tic-Tac-Toe-using-Chatgpt/  <br>
 <b>Codepen Link :- </b>https://codepen.io/PatelKurvesh/pen/MWBrXWo
 <p>Hello viewers, the entire code for this game has been written by chat gpt. Additionally, the script is written by chat gpt. It is very simple i write only 3 query</p>
 1) create a tic tac toe game using html , css, AND javascript. user clickable. <br>
